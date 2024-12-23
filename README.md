@@ -20,7 +20,7 @@ The coding process was approached methodically:
 
 Planning and Design: Defined the app's requirements, features, and user interface.
 
-Modular Coding: Broke down the app into smaller, manageable modules, such as authentication, data management, and notifications.\
+Modular Coding: Broke down the app into smaller, manageable modules, such as authentication, data management, and notifications.
 
 Incremental Testing: Tested each module (class/code snippet) individually before integrating them.
 
